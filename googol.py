@@ -27,3 +27,5 @@ def repeat2(ch, times):
 # print("1", end='')
 # repeat("0", 100)
 print('1' + repeat2("0", 100))
+
+#demo add
